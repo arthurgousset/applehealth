@@ -1,0 +1,14 @@
+{
+  "name": "applehealth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "arthurgousset",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "xml2js": "^0.6.2"
+  }
+}
