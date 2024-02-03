@@ -1,3 +1,10 @@
+# Custom
+export.xml
+weight.csv
+
+# Apple
+.DS_Store
+
 # Logs
 logs
 *.log
