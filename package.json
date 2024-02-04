@@ -6,12 +6,12 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.16",
-    "@types/xml2js": "^0.4.14",
+    "@types/node-expat": "^2.3.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "xml2js": "^0.6.2"
+    "node-expat": "^2.4.0"
   }
 }
